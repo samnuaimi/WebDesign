@@ -1,0 +1,9 @@
+:root {
+  --bs-hero-bg: url("hero.webp");
+  --bs-font-family-heading: 'Fraunces', serif;
+}
+
+.reflow-product-list.ref-cards .ref-product .ref-excerpt {
+  display: none;
+}
+
